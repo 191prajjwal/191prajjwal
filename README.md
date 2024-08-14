@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prajjwal+Shukla!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<!-- <h3 align="center">A passionate software developer from India</h3> -->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
  
  🔭 I’m currently looking for a job role 
- 🌱 I’m currently learning **MERN Stack**
+ <br/>
+ 🌱 Currently expanding proficiency in the **Full Stack Development**
+  <br/>
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+ </div> -->
  
 <div align="center"> 
   <a href="mailto:prajjwalshukla333@gmail.com">
@@ -47,14 +49,14 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=191prajjwal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=191prajjwal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191prajjwal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> -->
 
 <br/><br/>
 
