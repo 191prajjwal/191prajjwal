@@ -43,11 +43,10 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/191prajjwal/191prajjwal/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 
-<hr/>
+
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -58,11 +57,4 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191prajjwal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> -->
 
-<br/><br/>
 
-<hr/>
-
-<br/>
-
-
-<br/>
